@@ -1,2 +1,2 @@
-FROM python3
+FROM python
 WORKDIR /usr/src/app
